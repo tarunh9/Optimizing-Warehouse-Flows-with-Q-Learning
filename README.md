@@ -3,7 +3,7 @@
 BUSINESS CASE </br></br>
 The Warehouse belongs to an online retail company that fills products to its customers and inside these warehouse the products are a stored in twelve different locations twelve different locations from A to L. Each of these letters here are one specific location where the products are stored and of course there are grouped by similar product categories. The priority is given based on some sensitive and high value products. </br>
 
-The structure of the warehouse.</br>
+The structure of the warehouse.
 ![](pics/warehouse.png)
 </br>
 
