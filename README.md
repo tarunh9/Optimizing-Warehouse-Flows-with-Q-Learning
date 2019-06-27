@@ -11,4 +11,8 @@ The company has the orders placed by online customers and we have an warehouse r
 
 ![](pics/priority.png)
 </br>
-The second system which is of course an AI is used to figure out the shortest route to go to locations. The robot has to go by an intermediate area before it reaches the desired location. This model looks very simple but is really powerful and useful as the complexities on the structure of the warehouse increases.</br>
+The second system which is of course an AI is used to figure out the shortest route to go to locations. The robot has to go by an intermediate area before it reaches the desired location. This model looks very simple but is really powerful and useful as the complexities on the structure of the warehouse increases.</br></br>
+
+Q-LEARNING ALGORITHM </br>
+Q-learning is an off policy reinforcement learning algorithm that seeks to find the best action to take given the current state. It’s considered off-policy because the q-learning function learns from actions that are outside the current policy, like taking random actions, and therefore a policy isn’t needed. More specifically, q-learning seeks to learn a policy that maximizes the total reward.
+![](pics/q_learning.png)
